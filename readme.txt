@@ -10,7 +10,7 @@ It contains lots of static textual contents coming from the first real-world use
 Installation steps
 ------------------
 
-1. Upload synd folder contents to your web server, i.e. in your web domain root folder.
+1. Upload project contents to your web server, i.e. in your web domain root folder.
 
 2. Customize config.php configuration file.
 
